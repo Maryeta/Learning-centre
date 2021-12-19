@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\LearningCenter\bin\Debug\LearningCenter.exe.config
+C:\Users\User\source\repos\LearningCenter\bin\Debug\LearningCenter.exe
+C:\Users\User\source\repos\LearningCenter\bin\Debug\LearningCenter.pdb
+C:\Users\User\source\repos\LearningCenter\obj\Debug\LearningCenter.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LearningCenter\obj\Debug\LearningCenter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LearningCenter\obj\Debug\LearningCenter.exe
+C:\Users\User\source\repos\LearningCenter\obj\Debug\LearningCenter.pdb
+C:\Users\User\Documents\Зачеьное задание\LearningCenter\bin\Debug\LearningCenter.exe.config
+C:\Users\User\Documents\Зачеьное задание\LearningCenter\bin\Debug\LearningCenter.exe
+C:\Users\User\Documents\Зачеьное задание\LearningCenter\bin\Debug\LearningCenter.pdb
+C:\Users\User\Documents\Зачеьное задание\LearningCenter\obj\Debug\LearningCenter.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Зачеьное задание\LearningCenter\obj\Debug\LearningCenter.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Зачеьное задание\LearningCenter\obj\Debug\LearningCenter.exe
+C:\Users\User\Documents\Зачеьное задание\LearningCenter\obj\Debug\LearningCenter.pdb
